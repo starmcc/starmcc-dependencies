@@ -9,6 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0.0-RELEASE</version>
     <url>https://www.starmcc.com</url>
+
+    <description>starmcc-parent-pom</description>
     <!--  starmcc公共父类  -->
     <properties>
         <!-- 项目环境 -->
